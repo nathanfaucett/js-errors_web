@@ -1,0 +1,69 @@
+{
+  "terms_of_service": {
+    "terms_of_service": "Terms of Service",
+
+    "1_header": "ACCEPTANCE OF TERMS",
+    "1_body": "Hackertarian (hereafter called \"HT\") provides its service to you, subject to the following Terms of Service (\"TOS\"), which may be updated by us from time to time without notice to you. When using particular HT services, you and HT shall be subject to any posted guidelines or rules applicable to such services which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the TOS.",
+
+    "2_header": "DESCRIPTION OF SERVICE",
+    "2_body": "HT currently provides users with a service to help learn and practice mathematics. Unless explicitly stated otherwise, any new features that augment or enhance the current Service, including the release of new HT properties, shall be subject to the TOS. You understand and agree that the Service is provided \"as-is\" and that HT assumes no responsibility for the timeliness, deletion, misdelivery or failure to store any user communications or personalization settings.",
+    "2_body2": "In order to use the Service, you must obtain access to the Internet, either directly or through devices that access web-based content, and pay any service fees associated with such access. In addition, you must provide all equipment necessary to make such connection to the Internet, including a computer and modem or other access device.",
+
+    "3_header": "YOUR REGISTRATION OBLIGATIONS",
+    "3_body": "In consideration of your use of the Service, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Service's registration form (such information being the \"Registration Data\") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or HT has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, HT has the right to suspend or terminate your account and refuse any and all current or future use of the Service (or any portion thereof).",
+
+    "4_header": "HT PRIVACY POLICY",
+    "4_body": "Registration Data and certain other information about you is subject to our ",
+
+    "5_header": "MEMBER ACCOUNT, PASSWORD AND SECURITY",
+    "5_body": "You will have a token and an account designation upon completing the Service's registration process. You are responsible for maintaining the confidentiality of the token and account and are fully responsible for all activities that occur under your token or account. You agree to (a) immediately notify HT of any unauthorized use of your token or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. HT cannot and will not be liable for any loss or damage arising from your failure to comply with this Section 6.",
+    "5_body2": "HT accounts may not be shared by more than one person unless express authorization is given by HT itself.",
+
+    "6_header": "MEMBER CONDUCT",
+    "6_body": "You understand that all information including but not limited to data, text, software, photographs, graphics, illustrations, artwork, video, music, sound, messages, names, logos, trademarks, service marks and other materials (\"Content\"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not HT, are entirely responsible for all Content that you upload, post, e-mail, transmit or otherwise make available via the Service. HT does not control the Content posted via the Service and, as such, does not guarantee the accuracy, integrity or quality of such Content. Under no circumstances will HT be liable in any way for any Content, including, but not limited to, for any errors or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, e-mailed, transmitted or otherwise made available via the Service.",
+    "6_body2": "You understand that the technical processing and transmission of the Service, including your Content, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.",
+
+    "7_header": "SPECIAL ADMONITIONS FOR INTERNATIONAL USE",
+    "7_body": "Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. Specifically, you agree to comply with all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside.",
+
+    "8_header": "INDEMNITY",
+    "8_body": "You agree to indemnify and hold HT, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit or make available through the Service, your use of the Service, your connection to the Service, your violation of the TOS, or your violation of any rights of another.",
+
+    "9_header": "NO RESALE OF SERVICE",
+    "9_body": "You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service.",
+
+    "10_header": "MODIFICATIONS TO SERVICE",
+    "10_body": "HT reserves the right at any time and from time to time to modify or temporarily discontinue the Service (or any part thereof) with or without notice. You agree that HT shall not be liable to you or to any third party for any modification, suspension or temporary discontinuance of the Service. In the event of permanent discontinuance of the Service, liability is limited to the paid subscription price, pro-rated to the amount of time remaining on the subscription.",
+
+    "11_header": "TERMINATION",
+    "11_body": "You agree that HT, in its sole discretion, may terminate your token, account (or any part thereof) or use of the Service, for any reason, including, without limitation, for lack of use or if HT believes that you have violated or acted inconsistently with the letter or spirit of the TOS. HT may also in its sole discretion and at any time discontinue providing the Service, or any part thereof, with or without notice. You agree that any termination of your access to the Service under any provision of this TOS may be effected without prior notice, and acknowledge and agree that HT may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service. Further, you agree that HT shall not be liable to you or any third-party for any termination of your access to the Service.",
+
+    "12_header": "LINKS",
+    "12_body": "The Service may provide, or third parties may provide, links to other Internet websites or resources. Because HT has no control over such sites and resources, you acknowledge and agree that HT is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that HT shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.",
+
+    "13_header": "HT’s PROPRIETARY RIGHTS",
+    "13_body": "You acknowledge and agree that the Service and any necessary software used in connection with the Service (\"Software\") contain proprietary and confidential information that is protected by applicable intellectual property and other laws. You further acknowledge and agree that information presented to you through the Service is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Except as expressly authorized by HT or advertisers, you agree not to modify, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Software, in whole or in part.",
+    "13_body2": "HT grants you a personal, non-transferable and non-exclusive right and license to use the Service. You agree that you will not copy, modify, create a derivative work of, reverse engineer, reverse assemble or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the Software. You agree not to modify the Software in any manner or form, or to use modified versions of the Software, including (without limitation) for the purpose of obtaining unauthorized access to the Service. You agree not to access the Service by any means other than through the interface that is provided by HT for use in accessing the Service.",
+    "13_body3": "Furthermore, you understand that the Content is protected by copyright and other laws in both the United States and elsewhere. Under the terms of this agreement, it is expressly forbidden to distribute the Content or any portion thereof by any means, including but not limited to electronic and print, to any person or entity who does not have a valid account. HT reserves the right to cancel your organization's license without refund if it is determined that you have violated this portion of the agreement.",
+
+    "14_header": "DISCLAIMER OF WARRANTIES",
+    "14_body": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT:",
+    "14_body_a": "YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. HT EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.",
+    "14_body_b": "HT MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.",
+    "14_body_c": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+    "14_body_d": "NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM HT OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TOS.",
+
+    "15_header": "LIMITATION OF LIABILITY",
+    "15_body": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT HT SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF HT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE; (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANS ENTERED INTO THROUGH OR FROM THE SERVICE; (iii) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (iv) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE; OR (v) ANY OTHER MATTER RELATING TO THE SERVICE.",
+
+    "16_header": "EXCLUSIONS AND LIMITATIONS",
+    "16_body": "SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 15 AND 16 MAY NOT APPLY TO YOU.",
+
+    "17_header": "TRADEMARK INFORMATION",
+    "17_body": "HT is a registered trademark of HT.",
+
+    "18_header": "GENERAL INFORMATION",
+    "18_body": "The TOS constitute the entire agreement between you and HT and govern your use of the Service, superseding any prior agreements between you and HT. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. The TOS and the relationship between you and HT shall be governed by the laws of the State of Delaware without regard to conflict of law provisions. The failure of HT to exercise or enforce any right or provision of the TOS shall not constitute a waiver of such right or provision. If any provision of the TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the TOS remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or the TOS must be filed within one (1) year after such claim or cause of action arose or be forever barred.",
+    "18_body2": "The section titles in the TOS are for convenience only and have no legal or contractual effect."
+  }
+}

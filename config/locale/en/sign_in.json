@@ -1,0 +1,11 @@
+{
+  "sign_in": {
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_up": "Sign in / Sign up",
+    "sign_in_with": "Sign in with",
+    "google": "Google",
+    "github": "Github",
+    "facebook": "Facebook"
+  }
+}

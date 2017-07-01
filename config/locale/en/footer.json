@@ -1,0 +1,15 @@
+{
+  "footer": {
+    "info": "Errors is an immersive learning platform that provides innovative learning materials for students from preschool to any age.",
+    "about": "About",
+    "company_information": "Company Information",
+    "terms_of_service": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "community": "Community",
+    "blog": "Blog",
+    "contact_us": "Contact Us",
+    "copy": "© {year} Errors. All rights reserved.",
+    "region": "Region",
+    "locale": "Language"
+  }
+}
