@@ -11,7 +11,7 @@ import extend from "@nathanfaucett/extend";
 import app from "../../app";
 
 
-const LINKS = [];
+const LINKS = ["projects"];
 
 
 class Nav extends Component {

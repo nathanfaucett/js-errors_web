@@ -1,6 +1,7 @@
 import Home from "../components/Home";
 import SignIn from "../components/SignIn";
 import OAuth2 from "../components/OAuth2";
+import Projects from "../components/Projects";
 import NotFound from "../components/NotFound";
 import TermsOfService from "../components/TermsOfService";
 import PrivacyPolicy from "../components/PrivacyPolicy";
@@ -30,6 +31,8 @@ route("/oauth2/:token{.*}", "oauth2", OAuth2);
 route("/", "index", Home);
 
 middleware("/", authRedirect);
+
+route("/projects", "projects", Projects);
 
 setView("not_found", NotFound);
 middleware("/", notFound);

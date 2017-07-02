@@ -20,6 +20,7 @@ const getInitialState = () => {
     return {
         error: {},
         email: "",
+        username: "",
         token: null
     };
 };
@@ -70,7 +71,8 @@ const user = (state, action) => {
             return extend({}, state, {
                 error: {},
                 token: action.token,
-                email: user.email
+                email: user.email,
+                username: user.username
             });
 
         case actions.GET_USER_ERROR:
@@ -80,7 +82,8 @@ const user = (state, action) => {
             return extend({}, state, {
                 error: action.error,
                 token: null,
-                email: ""
+                email: "",
+                username: ""
             });
 
         case actions.SIGN_OUT:
@@ -91,7 +94,8 @@ const user = (state, action) => {
             return extend({}, state, {
                 error: {},
                 token: null,
-                email: ""
+                email: "",
+                username: ""
             });
 
         default:
