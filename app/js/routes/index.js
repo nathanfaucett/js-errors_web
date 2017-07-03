@@ -1,6 +1,7 @@
 import Home from "../components/Home";
 import SignIn from "../components/SignIn";
 import OAuth2 from "../components/OAuth2";
+import Project from "../components/Project";
 import Projects from "../components/Projects";
 import NotFound from "../components/NotFound";
 import TermsOfService from "../components/TermsOfService";
@@ -33,6 +34,7 @@ route("/", "index", Home);
 middleware("/", authRedirect);
 
 route("/projects", "projects", Projects);
+route("/projects/:id", "project", Project);
 
 setView("not_found", NotFound);
 middleware("/", notFound);

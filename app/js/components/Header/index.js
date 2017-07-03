@@ -30,6 +30,10 @@ class Header extends Component {
         this.onTitleTouchTap = () => {
             page.go("/");
         };
+        this.onSignOut = () => {
+            props.signOut();
+            page.go("/sign_in");
+        };
     }
 
     getStyles() {
@@ -54,7 +58,11 @@ class Header extends Component {
                 iconElementLeft={
                     <IconButton onTouchTap={this.onToggle}><MenuIcon/></IconButton>
                 }
-                iconElementRight={props.signedIn ? <Logged signOut={props.signOut}/> : <Login/>}
+                iconElementRight={
+                    props.signedIn ?
+                    <Logged signOut={this.onSignOut}/> :
+                    <Login/>
+                }
             />
             <Nav {...props}/>
         </div>;

@@ -48,9 +48,15 @@ class Home extends Component {
                     <p style={styles.p}><FormattedMessage id="app.about"/></p>
                     {
                         signedIn ?
-                        <empty/> :
+                        <a style={styles.a} href="/projects">
+                            <RaisedButton
+                                primary={true}
+                                label={intl.formatMessage({id: "home.projects"})}
+                            />
+                        </a> :
                         <a style={styles.a} href="/sign_in">
                             <RaisedButton
+                                primary={true}
                                 label={intl.formatMessage({id: "sign_in.sign_in_up"})}
                             />
                         </a>

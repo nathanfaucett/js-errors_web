@@ -8,7 +8,6 @@ var application = exports,
     port = process.env.PORT || 8080,
     liveReloadPort = process.env.LIVERELOAD_PORT || 35729;
 
-
 application.port = port;
 application.env = env;
 application.liveReloadPort = liveReloadPort;

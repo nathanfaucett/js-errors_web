@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "new": "New Project",
+    "new_dialog": "Create a new Project",
+    "name": "Name",
+    "create": "Create",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "view": "View",
+
+    "api_token": "Project API Token",
+    "regenerate_token": "Regenerate Token",
+
+    "back_to_projects": "Back to Projects"
+  }
+}

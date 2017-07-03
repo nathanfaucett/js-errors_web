@@ -30,8 +30,7 @@ these ENV variables are used in the config and need to be defined
 I use [http://direnv.net/](http://direnv.net/)
 
 ```bash
-export NODE_ENV="development" # "development""production""staging""test"
-export PORT=4000
+export NODE_ENV="development" # "development""production""test"
 export LIVERELOAD_PORT=35729
 ```
 

@@ -27,7 +27,7 @@
     "@nathanfaucett/flatten_object": "^0.0.1",
     "@nathanfaucett/livereload": "^0.0.3",
     "@nathanfaucett/object-for_each": "^0.0.2",
-    "@nathanfaucett/task": "^0.0.7",
+    "@nathanfaucett/task": "^0.0.8",
     "babel-core": "^6.1.2",
     "babel-loader": "^6.1.0",
     "babel-preset-es2015": "^6.24.1",
@@ -36,6 +36,7 @@
     "del": "^2.2.2",
     "eslint-plugin-react": "^7.1.0",
     "gulp-connect": "^5.0.0",
+    "gulp-envify": "^1.0.0",
     "gulp-eslint": "^4.0.0",
     "gulp-jsbeautifier": "^2.1.0",
     "gulp-jsonminify": "^1.0.0",
@@ -44,8 +45,7 @@
     "less": "^2.7.1",
     "uglify-js": "^2.7.3",
     "vinyl-fs": "^2.4.3",
-    "webpack": "^2.6.0",
-    "webpack-stream": "^3.2.0"
+    "webpack": "^2.6.0"
   },
   "dependencies": {
     "@jwaterfaucett/browser_langauge": "^0.0.2",
@@ -53,6 +53,7 @@
     "@nathanfaucett/array-map": "^0.0.1",
     "@nathanfaucett/cookies": "^0.0.2",
     "@nathanfaucett/create-grid.less": "^0.0.2",
+    "@nathanfaucett/dom_caret": "^0.0.2",
     "@nathanfaucett/dom_dimensions": "^0.0.1",
     "@nathanfaucett/environment": "^0.0.2",
     "@nathanfaucett/event_listener": "^0.0.2",

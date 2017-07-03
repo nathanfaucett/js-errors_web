@@ -47,6 +47,8 @@ task("livereload", "start livereload",
 task("serve", "start static assets server",
     require("./config/tasks/serve")(config));
 
+task("envify", "envify build",
+    require("./config/tasks/envify")(config));
 task("uglify", "uglify build js",
     require("./config/tasks/uglify")(config));
 task("minify_css", "minify build css",
@@ -58,13 +60,13 @@ task("minify_json", "minify build json",
 
 task("minify", "minify built app",
     task.parallel(
-        task("uglify"),
+        task.series(task("envify"), task("uglify")),
         task("minify_css"),
         task("minify_html"),
         task("minify_json")));
 
 
-if (config.env !== "production" && config.env !== "staging") {
+if (config.env !== "production") {
     task("build", "builds app in " + config.env, task.parallel(
         task("config"),
         task("webpack_server"),

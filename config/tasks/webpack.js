@@ -1,11 +1,23 @@
-var vfs = require("vinyl-fs"),
-    webpackStream = require("webpack-stream");
+var webpack = require("webpack"),
+    extend = require("@nathanfaucett/extend"),
+    livereload = require("@nathanfaucett/livereload");
 
 
 module.exports = function(webpackConfig, config) {
     return function(callback) {
-        return vfs.src(config.paths.js_src)
-            .pipe(webpackStream(webpackConfig))
-            .pipe(vfs.dest(webpackConfig.output.path));
+        var mergedConfig = extend(webpackConfig, {
+            watch: false
+        });
+
+        webpack(
+            mergedConfig,
+            function onCompile(error, stats) {
+                console.log(stats.toString({
+                    chunks: true,
+                    colors: true
+                }));
+                callback(error);
+            }
+        );
     };
 };
